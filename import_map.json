@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "$deno:fs/": "https://deno.land/std@0.189.0/fs/",
+    "$deno:http/": "https://deno.land/std@0.189.0/http/",
+
+    "$ixalan/": "./",
+    "$ixalan/jsx-runtime": "./jsx-runtime/runtime.ts"
+  }
+}
